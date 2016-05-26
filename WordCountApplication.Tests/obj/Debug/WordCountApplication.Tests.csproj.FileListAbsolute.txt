@@ -1,0 +1,18 @@
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\obj\Debug\WordCountApplication.Tests.csprojResolveAssemblyReference.cache
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\bin\Debug\WordCountApplication.Tests.dll
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\bin\Debug\WordCountApplication.Tests.pdb
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\bin\Debug\nunit.framework.dll
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\bin\Debug\nunit.framework.xml
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\obj\Debug\WordCountApplication.Tests.dll
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\obj\Debug\WordCountApplication.Tests.pdb
+C:\Users\francois\Documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\bin\Debug\WordCount.Library.dll
+C:\Users\francois\Documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication.Tests\bin\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\obj\Debug\WordCountApplication.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\obj\Debug\WordCountApplication.Tests.dll
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\bin\Debug\WordCountApplication.Tests.dll
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\bin\Debug\WordCountApplication.Tests.pdb
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\bin\Debug\WordCount.Library.dll
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\bin\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication.Tests\obj\Debug\WordCountApplication.Tests.pdb

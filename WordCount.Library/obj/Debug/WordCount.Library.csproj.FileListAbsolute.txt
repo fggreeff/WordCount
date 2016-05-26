@@ -1,0 +1,15 @@
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCount.Library\bin\Debug\WordCount.Library.dll
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCount.Library\bin\Debug\WordCount.Library.pdb
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.csprojResolveAssemblyReference.cache
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.dll
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCount.Library\bin\Debug\WordCount.Library.dll
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCount.Library\bin\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.dll
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCount.Library\bin\Debug\WordCount.Library.dll
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCount.Library\bin\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.dll
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCount.Library\obj\Debug\WordCount.Library.pdb

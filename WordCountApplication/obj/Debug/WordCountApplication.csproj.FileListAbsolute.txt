@@ -1,0 +1,33 @@
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.exe.config
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.exe
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.pdb
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.csprojResolveAssemblyReference.cache
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.WordCount.resources
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.Properties.Resources.resources
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.csproj.GenerateResource.Cache
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.exe
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.pdb
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\bin\Debug\WordCount.Library.dll
+c:\users\francois\documents\visual studio 2013\Projects\WordCountApplication\WordCountApplication\bin\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.exe.config
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.exe
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.pdb
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.exe
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.pdb
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\bin\Debug\WordCount.Library.dll
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\bin\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.WordCount.resources
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.Properties.Resources.resources
+C:\Users\Administrator\Downloads\WordCountApplication\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.exe.config
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.exe
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.pdb
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.exe
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\bin\Debug\WordCountApplication.pdb
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\bin\Debug\WordCount.Library.dll
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\bin\Debug\WordCount.Library.pdb
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.WordCount.resources
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WordCountApplication (1)\WordCountApplication\WordCountApplication\obj\Debug\WordCountApplication.csproj.GenerateResource.Cache
